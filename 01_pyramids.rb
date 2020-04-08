@@ -75,8 +75,3 @@ def wtf_pyramid
 end
 
 puts wtf_pyramid
-
-
-=begin
-
-=end
